@@ -9,12 +9,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config.xml">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/action_fm.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="216">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/so_win.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="196" column="14" lean-forward="true" selection-start-line="196" selection-start-column="14" selection-end-line="196" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -25,21 +37,39 @@
     <findStrings>
       <find>http://v.234web.com</find>
       <find>http://dianying.xr16.net</find>
+      <find>陆洋测试</find>
+      <find>QQ</find>
     </findStrings>
     <replaceStrings>
       <replace>http://dianying.xr16.net</replace>
-      <replace />
       <replace>http://43.251.103.23:63</replace>
+      <replace>vip影视</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="364" />
-    <option name="y" value="96" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/html/action_fm.html" />
+        <option value="$PROJECT_DIR$/js/jquery-1.11.3.min.js" />
+        <option value="$PROJECT_DIR$/css/aui.css" />
+        <option value="$PROJECT_DIR$/shangcheng/css/aui-flex.css" />
+        <option value="$PROJECT_DIR$/shangcheng/css/aui.css" />
+        <option value="$PROJECT_DIR$/css/qicai_aui.css" />
+        <option value="$PROJECT_DIR$/shangcheng/script/aui-range.js" />
+        <option value="$PROJECT_DIR$/shangcheng/css/aui-skin-night.css" />
+        <option value="$PROJECT_DIR$/shangcheng/css/aui-skin.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="533" />
+    <option name="y" value="115" />
     <option name="width" value="1142" />
-    <option name="height" value="977" />
+    <option name="height" value="832" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -53,6 +83,11 @@
             <path>
               <item name="widget" type="b2602c69:ProjectViewProjectNode" />
               <item name="widget" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="widget" type="b2602c69:ProjectViewProjectNode" />
+              <item name="widget" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -94,16 +129,21 @@
       <workItem from="1572684924133" duration="533000" />
       <workItem from="1584443876487" duration="223000" />
       <workItem from="1584444119520" duration="55000" />
+      <workItem from="1584444194931" duration="610000" />
+      <workItem from="1587473129487" duration="777000" />
+      <workItem from="1587644605817" duration="821000" />
+      <workItem from="1587890957955" duration="306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1971000" />
+    <option name="totallyTimeSpent" value="4485000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="364" y="96" width="1142" height="977" extended-state="0" />
+    <frame x="533" y="115" width="1142" height="832" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18022181" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19408503" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -130,8 +170,25 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/action_fm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/so_win.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="196" column="14" lean-forward="true" selection-start-line="196" selection-start-column="14" selection-end-line="196" selection-end-column="14" />
         </state>
       </provider>
     </entry>

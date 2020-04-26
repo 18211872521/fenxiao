@@ -1,7 +1,7 @@
 /*
  * AUI JAVASCRIPT PLUGIN
  * 滑动 aui-range
- * Copyright (c) 2015 auicss.com @流浪男  QQ：343757327  群：344869952
+ * Copyright (c) 2015 auicss.com
  */
  (function( window, undefined ) {
     "use strict";
